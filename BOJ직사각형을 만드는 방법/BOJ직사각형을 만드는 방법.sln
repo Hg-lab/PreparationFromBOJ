@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ직사각형을 만드는 방법", "BOJ직사각형을 만드는 방법\BOJ직사각형을 만드는 방법.vcxproj", "{B86D735D-C338-4971-9861-5D49F4C2D099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86D735D-C338-4971-9861-5D49F4C2D099}.Debug|x64.ActiveCfg = Debug|x64
+		{B86D735D-C338-4971-9861-5D49F4C2D099}.Debug|x64.Build.0 = Debug|x64
+		{B86D735D-C338-4971-9861-5D49F4C2D099}.Debug|x86.ActiveCfg = Debug|Win32
+		{B86D735D-C338-4971-9861-5D49F4C2D099}.Debug|x86.Build.0 = Debug|Win32
+		{B86D735D-C338-4971-9861-5D49F4C2D099}.Release|x64.ActiveCfg = Release|x64
+		{B86D735D-C338-4971-9861-5D49F4C2D099}.Release|x64.Build.0 = Release|x64
+		{B86D735D-C338-4971-9861-5D49F4C2D099}.Release|x86.ActiveCfg = Release|Win32
+		{B86D735D-C338-4971-9861-5D49F4C2D099}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {674F78A3-73C9-415C-9B86-23FCA1FE7124}
+	EndGlobalSection
+EndGlobal
