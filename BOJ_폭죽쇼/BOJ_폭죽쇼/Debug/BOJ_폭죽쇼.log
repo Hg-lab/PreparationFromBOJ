@@ -1,0 +1,4 @@
+﻿  BOJ_폭죽쇼.cpp
+C:\github\BOJ_폭죽쇼\BOJ_폭죽쇼\BOJ_폭죽쇼.cpp(118,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\github\BOJ_폭죽쇼\BOJ_폭죽쇼\BOJ_폭죽쇼.cpp(123,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ_폭죽쇼.vcxproj -> C:\github\BOJ_폭죽쇼\Debug\BOJ_폭죽쇼.exe

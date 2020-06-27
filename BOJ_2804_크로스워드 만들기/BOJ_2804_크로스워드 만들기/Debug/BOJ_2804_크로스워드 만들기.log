@@ -1,0 +1,6 @@
+﻿  BOJ_2804_크로스워드 만들기.cpp
+C:\github\BOJ_2804_크로스워드 만들기\BOJ_2804_크로스워드 만들기\BOJ_2804_크로스워드 만들기.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\github\BOJ_2804_크로스워드 만들기\BOJ_2804_크로스워드 만들기\BOJ_2804_크로스워드 만들기.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\github\BOJ_2804_크로스워드 만들기\BOJ_2804_크로스워드 만들기\BOJ_2804_크로스워드 만들기.cpp(25,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\github\BOJ_2804_크로스워드 만들기\BOJ_2804_크로스워드 만들기\BOJ_2804_크로스워드 만들기.cpp(26,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ_2804_크로스워드 만들기.vcxproj -> C:\github\BOJ_2804_크로스워드 만들기\Debug\BOJ_2804_크로스워드 만들기.exe
