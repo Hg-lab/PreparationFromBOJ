@@ -1,0 +1,4 @@
+﻿  BOJ_2810_컵홀더.cpp
+C:\github\BOJ_2810_컵홀더\BOJ_2810_컵홀더\BOJ_2810_컵홀더.cpp(16,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\github\BOJ_2810_컵홀더\BOJ_2810_컵홀더\BOJ_2810_컵홀더.cpp(9,7): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  BOJ_2810_컵홀더.vcxproj -> C:\github\BOJ_2810_컵홀더\Debug\BOJ_2810_컵홀더.exe
