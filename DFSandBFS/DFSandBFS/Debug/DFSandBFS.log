@@ -1,0 +1,4 @@
+﻿  DFSandBFS.cpp
+C:\github\DFSandBFS\DFSandBFS\DFSandBFS.cpp(43,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\github\DFSandBFS\DFSandBFS\DFSandBFS.cpp(59,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  DFSandBFS.vcxproj -> C:\github\DFSandBFS\Debug\DFSandBFS.exe

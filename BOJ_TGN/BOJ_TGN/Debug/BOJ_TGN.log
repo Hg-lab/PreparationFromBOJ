@@ -1,0 +1,3 @@
+﻿  BOJ_TGN.cpp
+C:\github\BOJ_TGN\BOJ_TGN\BOJ_TGN.cpp(18): warning C4715: 'cal': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  BOJ_TGN.vcxproj -> C:\github\BOJ_TGN\Debug\BOJ_TGN.exe

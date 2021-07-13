@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\github\BOJ_Mini Fantasy War\BOJ_Mini Fantasy War\소스.cpp(31,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ_Mini Fantasy War.vcxproj -> C:\github\BOJ_Mini Fantasy War\Debug\BOJ_Mini Fantasy War.exe
